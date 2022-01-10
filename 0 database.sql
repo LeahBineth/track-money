@@ -1,1 +1,1 @@
-create db
+create db money
